@@ -7,7 +7,7 @@ A multi-platform video downloader built for throughput and abuse resistance — 
 > **Source code is private.** This repository documents the architecture and engineering work.
 
 ## My role
-Full-stack engineer — API service, rate limiting, extraction pipeline and front end.
+Full-stack engineer
 
 ## Architecture
 
