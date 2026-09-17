@@ -34,12 +34,6 @@ Full-stack engineer
 **Containerised.** Dockerfile-based deployment with environment-driven configuration.
 
 
-## Screenshots
-
-<!-- ![Home](docs/home.png) -->
-<!-- ![Download Flow](docs/download-flow.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
